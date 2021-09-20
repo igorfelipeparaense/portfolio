@@ -2,6 +2,8 @@
   Desafio Portfólio.
 </h3>
 
+## <a href="https://test-corebiz3.vercel.app/" target="_blank">Link do deploy</a>
+
 ## :bulb: Ideia do Projeto
 
 ```bash
