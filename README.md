@@ -15,7 +15,7 @@ Criar um Portflólio de desenvolvedor como terceiro desafio no Go Beyond da Core
 ## 🖼 Screenshot das telas da aplicação 
 
 <div>
-  <img src="https://user-images.githubusercontent.com/83182736/133951929-a07e7a0a-9a49-4418-a9a4-5041e28fd795.png" />
+  <img src="https://user-images.githubusercontent.com/83182736/180800371-c8760c21-3c09-46cc-b408-a9c75f7943d6.png" />
 </div
 <br/>
   
